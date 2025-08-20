@@ -61,10 +61,14 @@
 
   ---
 
+  ![GitHub Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naji7&theme=dracula&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph)
 
   
+
 
 
 
