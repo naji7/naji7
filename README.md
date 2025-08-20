@@ -58,7 +58,14 @@
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nasiknazzar/)
+
+  ---
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naji7&theme=dracula&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph)
+
   
+
 
 
 
