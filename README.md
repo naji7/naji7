@@ -52,12 +52,13 @@
 
 ### 🏆 Achievements
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naji7&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 ---
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/nasiknazzar/)
   
+
 
 
